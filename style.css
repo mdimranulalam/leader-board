@@ -1,4 +1,4 @@
-/* /*---------------------------- 
+/*---------------------------- 
         Common styles  
 -----------------------------*/
 *{
@@ -170,15 +170,4 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
-} */
-
-
-
-.love{
-    width: 100%;
-    margin: auto;
-    text-align: center;
-    font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #1d1d1d;
 }
